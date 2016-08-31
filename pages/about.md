@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 沧海一声笑
+keywords: Hyiran, 老周
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+沧海一声笑。
 
 仰慕「优雅编码的艺术」。
 
@@ -19,12 +19,12 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
+* GitHub：[@mzlogin](https://github.com/yichao)
+* LinkedIn：[@mazhuang](https://www.linkedin.com/in/yichao)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* 微博: [@mzlogin](http://weibo.com/yichao)
+* 知乎: [@mzlogin](http://www.zhihu.com/peopleyichao)
+* 豆瓣: [@壮哥不胖](http://www.douban.com/people/yichao)
 
 ## Skill Keywords
 
