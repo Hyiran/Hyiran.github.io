@@ -4,24 +4,24 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: Hyiran
+subtitle: "沧海一声笑"
+description: "Yc的个人博客"
+keywords: Hyiran
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/mzlogin/mzlogin.github.io
+source_code: https://github.com/
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: yi chao
 organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
-email: chumpma@gmail.com
+organization_url: https://www.google.com
+location: shenzhen, China
+email: ychao@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -80,12 +80,12 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: yclogin
+douban_username: yclogin
+facebook_username: yclogin
+weibo_username: yclogin
+zhihu_username: yclogin
+twitter_username: yclogin
 
 # ---------------- #
 #      Comments    #
@@ -94,8 +94,8 @@ twitter_username: mzlogin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: yclogin
+disqus_username: yclogin
 
 # ---------------- #
 #    Analytics     #
