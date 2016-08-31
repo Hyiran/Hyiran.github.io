@@ -19,12 +19,12 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/yichao)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/yichao)
+* GitHub：[@yichao](https://github.com/yichao)
+* LinkedIn：[@yichao](https://www.linkedin.com/in/yichao)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/yichao)
-* 知乎: [@mzlogin](http://www.zhihu.com/peopleyichao)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/yichao)
+* 微博: [@yichao](http://weibo.com/yichao)
+* 知乎: [@yichao](http://www.zhihu.com/peopleyichao)
+* 豆瓣: [@老周](http://www.douban.com/people/yichao)
 
 ## Skill Keywords
 
