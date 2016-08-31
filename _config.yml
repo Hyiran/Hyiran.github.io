@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: yi chao
-organization: Sogou, Inc.
+organization: Sogou.
 organization_url: https://www.google.com
 location: shenzhen, China
 email: ychao@gmail.com
@@ -80,7 +80,7 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: yclogin
+github_username: 老周
 douban_username: yclogin
 facebook_username: yclogin
 weibo_username: yclogin
