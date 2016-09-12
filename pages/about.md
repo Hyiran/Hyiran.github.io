@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 沧海一声笑
-keywords: Hyiran, 老周
+description: 浅醉丶一生
+keywords: Hyiran, 周
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-沧海一声笑。
+浅醉丶一生。
 
 仰慕「优雅编码的艺术」。
 
